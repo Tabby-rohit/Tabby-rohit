@@ -107,7 +107,15 @@
 
 [![GitHub](https://img.shields.io/badge/GitHub-Tabby--rohit-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Tabby-rohit)
 
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Rohit%20Bellikatti-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/rohit-bellikatti-4a7679395)
+   
+
+[![Gmail](https://img.shields.io/badge/Gmail-rohitbellikattidev%40gmail.com-red?style=for-the-badge&logo=gmail)](mailto:rohitbellikattidev@gmail.com)
+
 </div>
+
+
 
 ---
 
