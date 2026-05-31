@@ -64,14 +64,15 @@
 
 <div align="center">
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=Tabby-rohit&show_icons=true&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&icon_color=00FF41&text_color=FFFFFF&hide_border=false&count_private=true" />
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Tabby-rohit&theme=chartreuse-dark&background=0D1117&border=00FF41&stroke=00FF41&ring=00FF41&fire=FF6600&currStreakNum=FFFFFF&sideNums=FFFFFF&currStreakLabel=00FF41&sideLabels=00FF41&dates=888888" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Tabby-rohit&show_icons=true&theme=chartreuse-dark"/>
+
+<img height="180em" src="https://streak-stats.demolab.com?user=Tabby-rohit&theme=chartreuse-dark"/>
 
 </div>
 
 <div align="center">
 
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tabby-rohit&layout=compact&theme=chartreuse-dark&bg_color=0D1117&border_color=00FF41&title_color=00FF41&text_color=FFFFFF&hide_border=false" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Tabby-rohit&layout=compact&theme=chartreuse-dark"/>
 
 </div>
 
